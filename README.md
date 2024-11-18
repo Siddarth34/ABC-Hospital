@@ -1,6 +1,6 @@
 # ABC Hospital
 
-Here you can find the screenshots of the output
+Here you can find the screenshots of the output.
 
 # Screenshots
 ![image](https://github.com/Siddarth34/ABC-Hospital/blob/main/output/home.png)
